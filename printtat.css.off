@@ -1,4 +1,4 @@
-/*.body {
+.body {
     background-color: #f00 !important;
 
 }
@@ -69,4 +69,4 @@ html, body {
 
 .site-header .grid--table {
     width: 0%!important;
-}*/
+}
