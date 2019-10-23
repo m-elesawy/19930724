@@ -1,3 +1,4 @@
 body, input, textarea, button, select {
-    display: none;
+    /*display: none;*/
+    display: block;
 }
