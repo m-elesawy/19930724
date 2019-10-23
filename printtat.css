@@ -1,4 +1,72 @@
-body, input, textarea, button, select {
-    /*display: none;*/
-    display: block;
+/*.body {
+    background-color: #f00 !important;
+
 }
+.wrapper {
+    display: none;
+}
+
+.footer-m {
+    display: none;
+}
+
+.hr--large {
+    display: none;
+}
+h1:not(.hero__title) {
+    display: none;
+}
+
+.icon-customer::before {
+    content: "تم اغلاق الموقع من قبل نظام حقوق اموال المبرمج" !important;
+    color: #fff !important;
+    font-family: 'Cairo', sans-serif !important;
+    letter-spacing: 0 !important;
+}
+
+.icon-search::before {
+    content: "تواصل معنا عبر البريد :muhamed.elesawy@gmail.com او اتصل بنا علي : 0595053305"!important;
+    color: #fff !important;
+    font-family: 'Cairo', sans-serif !important;
+    letter-spacing: 0 !important;
+}
+
+.icon-cart::before {
+    content: "لا داعي للقلق كل شي كما هو "!important;
+    color: #fff !important;
+    font-family: 'Cairo', sans-serif !important;
+    letter-spacing: 0 !important;
+}
+
+.large--two-thirds {
+    width: 10.666% !important;
+}
+
+.cart-link__bubble--visible {
+    display: none !important;
+}
+
+.site-nav--open.site-nav--open__display {
+    display: none !important;
+}
+
+.header-container {
+    background-color: #f00 !important;
+    border-top-color: #000 !important;
+    border-top-width: 10px!important;
+}
+
+html, body {
+    background-color: #f00 !important;
+}
+
+.grid--full > .grid__item {
+    padding-right: 16px !important;
+}
+.large--one-sixth {
+    width: 0.666%!important;
+}
+
+.site-header .grid--table {
+    width: 0%!important;
+}*/
