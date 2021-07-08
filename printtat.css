@@ -1,8 +1,8 @@
 
 @media screen and (min-width:1000px) {
  .template-password .header {
-  padding-top:5px;
-  padding-bottom:5px
+  padding-top:10px !important;;
+  padding-bottom:10px!important;
  }
  .password {
   padding:40px 0
@@ -22,3 +22,9 @@
   margin-top:0
  }
 }
+
+ @media screen and (min-width: 641px) {
+      .header__logo-image {
+        max-width: 100px !important;;
+      }
+    }
