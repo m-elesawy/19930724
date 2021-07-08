@@ -179,3 +179,10 @@ padding-top: 5px !important;
     z-index: 1;
     box-shadow: -1px 1px rgba(20,168,194,.3) inset,1px -1px rgba(20,168,194,.3) inset;
 }
+
+.search-bar__filter-label {
+    display: block;
+    height: 44px;
+    padding: 0 20px 0 10px !important;
+    line-height: 35px !important;
+}
