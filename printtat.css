@@ -1,1 +1,24 @@
 
+@media screen and (min-width:1000px) {
+ .template-password .header {
+  padding-top:5px;
+  padding-bottom:5px
+ }
+ .password {
+  padding:40px 0
+ }
+ .password__footer {
+  text-align:left
+ }
+ .password__footer--with-social {
+  display:flex;
+  width:100%;
+  justify-content:space-between
+ }
+ .password__admin-link {
+  display:inline-block
+ }
+ .password__footer-social {
+  margin-top:0
+ }
+}
