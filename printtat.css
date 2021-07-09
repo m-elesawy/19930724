@@ -186,3 +186,10 @@ padding-top: 5px !important;
     padding: 0 20px 0 10px !important;
     line-height: 35px !important;
 }
+
+.collection-item__image-wrapper--rounded {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    border-color: #00badb;
+    border-style: solid;
+    border-width: 1px;
+}
